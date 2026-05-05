@@ -1,6 +1,6 @@
 # GoGo Loco｜System
 
-![alt text](https://cdn.discordapp.com/attachments/1071247370202923079/1285759561164259379/icon_Go_Loco.png?ex=66eb7067&is=66ea1ee7&hm=3b5a531373c65a509be09f491ac94da2e0c6b02729c41b81022935fe63bbb507&)
+![alttext]6https://cdn.discordapp.com/attachments/1071247370202923079/1285759561164259379/icon_Go_Loco.png?ex=66eb7067&is=66ea1ee7&hm=3b5a531373c65a509be09f491ac94da2e0c6b02729c41b81022935fe63bbb507&)
 
 
 You can use it on models you're selling, but keep the main icon in the menu.
